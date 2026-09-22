@@ -4,6 +4,7 @@ public class main{
         Scanner sc =new Scanner(System.in);
         name = sc.nextline();
         system.out.println(name);
+        
 
     }
 }
